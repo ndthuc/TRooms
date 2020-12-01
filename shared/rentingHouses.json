@@ -1,0 +1,81 @@
+{
+    "rentingHouses": [
+        {
+            "houseId": 0,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2013-10-13T14:48:00.000Z",
+            "isPaid": true,
+            "renterId": 0
+        },
+        {
+            "houseId": 1,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2014-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 19,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2013-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 3,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2013-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 5,
+            "startingDate": "2012-12-13T14:48:00.000Z",
+            "dueDate": "2013-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 17,
+            "startingDate": "2012-05-13T14:48:00.000Z",
+            "dueDate": "2013-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 18,
+            "startingDate": "2012-01-13T14:48:00.000Z",
+            "dueDate": "2013-01-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 12,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2014-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 8,
+            "startingDate": "2012-10-13T14:48:00.000Z",
+            "dueDate": "2015-10-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 14,
+            "startingDate": "2012-06-13T14:48:00.000Z",
+            "dueDate": "2013-12-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        },
+        {
+            "houseId": 15,
+            "startingDate": "2012-06-13T14:48:00.000Z",
+            "dueDate": "2013-12-13T14:48:00.000Z",
+            "isPaid": false,
+            "renterId": 38
+        }
+    ]
+}

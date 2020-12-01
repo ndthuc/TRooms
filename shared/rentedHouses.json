@@ -1,0 +1,44 @@
+{
+    "rentedHouses": [
+        {
+            "houseId": 4,
+            "status": "negotiating"
+        },
+        {
+            "houseId": 2,
+            "status": "negotiating"
+        },
+        {
+            "houseId": 13,
+            "status": "available"
+        },
+        {
+            "houseId": 9,
+            "status": "negotiating"
+        },
+        {
+            "houseId": 7,
+            "status": "available"
+        },
+        {
+            "houseId": 16,
+            "status": "available"
+        },
+        {
+            "houseId": 10,
+            "status": "available"
+        },
+        {
+            "houseId": 11,
+            "status": "available"
+        },
+        {
+            "houseId": 6,
+            "status": "available"
+        },
+        {
+            "houseId": 20,
+            "status": "negotiating"
+        }
+    ]
+}

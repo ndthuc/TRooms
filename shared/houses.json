@@ -1,0 +1,1072 @@
+{
+    "houses": [
+        {
+            "houseID": 0,
+            "houseName": "Holly Water",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 50000000,
+            "hasWiFi": true,
+            "includeUtility": true,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 0
+        },
+        {
+            "houseID": 1,
+            "houseName": "Night Light",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "conservatory",
+                    "image": "images/houses/conservatory/conservatory.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 40000000,
+            "hasWiFi": true,
+            "includeUtility": true,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 4
+        },
+        {
+            "houseID": 2,
+            "houseName": "Secret Garden",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 36000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 5
+        },
+        {
+            "houseID": 3,
+            "houseName": "Moonlight",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 47000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 8
+        },
+        {
+            "houseID": 4,
+            "houseName": "Nobuta",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 30000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 6
+        },
+        {
+            "houseID": 5,
+            "houseName": "Mirai Nikki",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "spareRoom",
+                    "image": "images/houses/spareRoom/spareRoom.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 31000000,
+            "hasWiFi": false,
+            "includeUtility": true,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 8
+        },
+        {
+            "houseID": 6,
+            "houseName": "Lorem Ipsum",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 40000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 9
+        },
+        {
+            "houseID": 7,
+            "houseName": "Crabit",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "conservatory",
+                    "image": "images/houses/conservatory/conservatory.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 36000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 0
+        },
+        {
+            "houseID": 8,
+            "houseName": "Garfield",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                },
+                {
+                    "type": "spareRoom",
+                    "image": "images/houses/spareRoom/spareRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 30000000,
+            "hasWiFi": false,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 8
+        },
+        {
+            "houseID": 9,
+            "houseName": "Tiger White",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 47000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 6
+        },
+        {
+            "houseID": 10,
+            "houseName": "Nala Garden",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 40000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 4
+        },
+        {
+            "houseID": 11,
+            "houseName": "Rusty Lake Paradise",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 32000000,
+            "hasWiFi": false,
+            "includeUtility": true,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 8
+        },
+        {
+            "houseID": 12,
+            "houseName": "Rusty Lake Roots",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 50000000,
+            "hasWiFi": false,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 0
+        },
+        {
+            "houseID": 13,
+            "houseName": "Future Dairy",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "nursery",
+                    "image": "images/houses/nursery/nursery.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 47000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 8
+        },
+        {
+            "houseID": 14,
+            "houseName": "Rusty Lake Hotel",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "conservatory",
+                    "image": "images/houses/conservatory/conservatory.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 38000000,
+            "hasWiFi": false,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 4
+        },
+        {
+            "houseID": 15,
+            "houseName": "Nyan~ Nyan~",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 45000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 6
+        },
+        {
+            "houseID": 16,
+            "houseName": "LQD 4oom",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "spareRoom",
+                    "image": "images/houses/spareRoom/spareRoom.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 40000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 9
+        },
+        {
+            "houseID": 17,
+            "houseName": "Hello World",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "conservatory",
+                    "image": "images/houses/conservatory/conservatory.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 40000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 5
+        },
+        {
+            "houseID": 18,
+            "houseName": "Cube Escape: Birthday",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "nursery",
+                    "image": "images/houses/nursery/nursery.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": true,
+            "rentingPrice": 41000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 6
+        },
+        {
+            "houseID": 19,
+            "houseName": "Big Baby",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "terrace",
+                    "image": "images/houses/terrace/terrace.png"
+                },
+                {
+                    "type": "diningRoom",
+                    "image": "images/houses/diningRoom/diningRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 46000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 9
+        },
+        {
+            "houseID": 20,
+            "houseName": "I love you",
+            "address": "Đường số 5, CVPM Quang Trung, P. Tân Chánh Hiệp, Q.12, Tp.HCM",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "houseImages":[
+                {
+                    "type": "balcony",
+                    "image": "images/houses/balcony/balcony.png"
+                },
+                {
+                    "type": "utilityRoom",
+                    "image": "images/houses/ultilityRoom/ultilityRoom.png"
+                },
+                {
+                    "type": "conservatory",
+                    "image": "images/houses/conservatory/conservatory.png"
+                },
+                {
+                    "type": "mudRoom",
+                    "image": "images/houses/mudRoom/mudRoom.png"
+                },
+                {
+                    "type": "bedRoom",
+                    "image": "images/houses/bedRoom/bedRoom.png"
+                },
+                {
+                    "type": "kitchen",
+                    "image": "images/houses/kitchen/kitchen.png"
+                },
+                {
+                    "type": "studyRoom",
+                    "image": "images/houses/studyRoom/studyRoom.png"
+                },
+                {
+                    "type": "garage",
+                    "image": "images/houses/garage/garage.png"
+                },
+                {
+                    "type": "livingRoom",
+                    "image": "images/houses/livingRoom/livingRoom.png"
+                },
+                {
+                    "type": "bathRoom",
+                    "image": "images/houses/bathRoom/bathRoom.png"
+                }
+            ],
+            "separateToilet": true,
+            "hasMezzanine": false,
+            "rentingPrice": 50000000,
+            "hasWiFi": true,
+            "includeUtility": false,
+            "includeSanitation": false,
+            "creationDate": "2011-10-13T14:48:00.000Z",
+            "ownerId": 4
+        }
+    ]
+}
